@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/purple</color>
+    <color name="colorPrimaryDark">@color/purple</color>
+    <color name="colorAccent">@color/purpleAccent</color>
+
+    <color name="red">#E53935</color>
+    <color name="green">#43A047</color>
+
+    <color name="purpleAccent">#6e3288</color>
+    <color name="purpleAccentOpacity10">#6e32881A</color>
+
+    <color name="black">#121212</color>
+    <color name="blackOpacity50">#80121212</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="blueGrayDark">#263238</color>
+
+    <color name="purple">#6e3288</color>
+
+</resources>

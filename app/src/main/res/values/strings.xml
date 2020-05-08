@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Covid 19</string>
+
+    <!-- Splash -->
+    <string name="splash_title">Covid 19</string>
+    <string name="splash_message">Mantenha-se informado,\na melhor maneira de prevenir.</string>
+    <string name="retry">Tentar novamente</string>
+
+    <!-- Permission -->
+    <string name="permission_location">Você deve conceder permissões para determinar sua localização.</string>
+    <string name="permission_storage">Você deve conceder permissões para baixar a nova versão do aplicativo.</string>
+
+    <!-- Home -->
+    <string name="home_bottom_dialog_title">Casos Globais COVID-19</string>
+    <string name="home_bottom_country_title">COVID-19 Casos em %1$s</string>
+
+    <string name="death_total">Casos\nFatais</string>
+    <string name="confirmed_total">Casos\nConfirmados</string>
+    <string name="recovered_total">Casos\nRecuperados</string>
+    <string name="update_at">Atualizado em %1$s</string>
+
+    <string name="symptoms">Sintomas</string>
+    <string name="fever">Febre</string>
+    <string name="cough">Tosse seca</string>
+    <string name="difficulty_breathing">Dificuldade para\nrespirar</string>
+    <string name="runny_nose">Secreção\nnasal</string>
+    <string name="sore_throat">Dor de\ngarganta</string>
+
+    <string name="scare_virus">Saiba mais sobre os sintomas do Covid 19</string>
+    <string name="consult_now">Consulte agora</string>
+    <string name="consult_message">Tome as devidas precauções e não ignore os sintomas.</string>
+
+    <string name="search_hint">Buscar…</string>
+    <string name="your_location">Minha localização</string>
+
+    <string name="emergency_guide">Guia de emergência</string>
+    <string name="know_more">Saiba mais</string>
+
+    <string name="scare_emergency">Evite a propagação do Covid 19</string>
+    <string name="scare_emergency_message">Se você suspeitar que está infectado ou alguém próximo, veja quais são as medidas apropriadas a serem tomadas.</string>
+
+    <string name="email_send">Enviar e-mail...</string>
+    <string name="email_message">Envie um e-mail para maicon.esperafico@rede.ulbra.br</string>
+
+    <!-- Share -->
+    <string name="share_app">Compartilhe</string>
+    <string name="share_text">Veja os dados mais recentes de casos do Covid-19.\n\nTambém aprenda sobre os sintomas desse vírus, e como tomar as precauções necessárias com um guia de emergência à mão, caso você suspeite estar infectado ou alguém próximo a você.</string>
+
+    <!-- Download -->
+    <string name="dialog_default_cancel">Cancelar</string>
+    <string name="dialog_default_accept">Aceitar</string>
+
+    <string name="update_app_title">Atualizar aplicativo</string>
+    <string name="update_app_message">Fizemos melhorias no aplicativo, baixe a nova versão para acessar as melhorias.</string>
+    <string name="update_app_download">Download</string>
+
+    <string name="open_app_title">Instalar aplicativo</string>
+    <string name="open_app_message">O aplicativo foi baixado.</string>
+    <string name="open_app_open_and_install">Abra e instale.</string>
+    <string name="open_app_notify_message">O aplicativo foi baixado, instale clicando aqui.</string>
+
+    <string name="notify_download_app">A nova versão do Covid 19 está sendo baixada.</string>
+
+    <!-- Error message -->
+    <string name="network_error_message">Por favor verifique sua conexão com a internet e tente novamente.</string>
+    <string name="default_error_message">Ocorreu um erro. Por favor, tente novamente.</string>
+
+    <!-- Menu -->
+    <string name="menu_global_cases">Casos Globais</string>
+    <string name="menu_symptoms">Sintomas</string>
+    <string name="menu_emergency_guide">Guia de Emergência</string>
+    <string name="menu_share">Compartilhar</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_credits">Sobre</string>
+    <string name="menu_contact">Contato</string>
+
+    <!-- Symptoms -->
+    <string name="symptoms_title_1">O que é o COVID-19?</string>
+    <string name="symptoms_desc_1">COVID-19 é uma doença infecciosa descoberta recentemente e causada pelo coronavírus. Tanto o novo vírus quanto a doença eram desconhecidos antes do surto em Wuhan, China, em dezembro de 2019.</string>
+    <string name="symptoms_title_2">Quais são os sintomas do COVID-19?</string>
+    <string name="symptoms_desc_2">Os sintomas mais comuns do COVID-19 são febre, cansaço e tosse seca. Alguns pacientes podem sentir dor, congestão nasal, coriza, garganta inflamada ou diarréia. Esses sintomas geralmente são leves e aparecem gradualmente.\nAlgumas pessoas são infectadas, mas não apresentam sintomas e não estão doentes. A maioria das pessoas (cerca de 80%) se recuperam da doença sem precisar de tratamento especial.\nCerca de 1 em cada 6 pessoas que contraem o COVID-19 desenvolvem uma doença mais grave e têm dificuldade para respirar. As pessoas idosas e as que têm condições médicas subjacentes, como pressão alta, problemas cardíacos ou diabetes, têm maior probabilidade de desenvolver doenças graves. Cerca de 2% das pessoas que contraíram a doença morreram. Pessoas com febre, tosse e falta de ar devem procurar atendimento médico.</string>
+    <string name="symptoms_title_3">Você suspeita que você ou alguém próximo a você possa estar infectado?</string>
+
+    <!-- Feedback -->
+    <string name="feedback_send">Enviar</string>
+    <string name="feedback_hint_email">E-mail</string>
+    <string name="feedback_hint_feedback">Dê seu feedback aqui...</string>
+    <string name="feedback_email_error">Digite um e-mail válido</string>
+    <string name="feedback_feedback_error">Digite seu feedback</string>
+    <string name="feedback_send_successful">Obrigado! Seu feedback é muito importante para nós.</string>
+
+    <!-- Emergency -->
+    <string name="emergency_head">Evite a propagação do coronavírus!</string>
+    <string name="emergency_title_1">Como se espalha o COVID-19?</string>
+    <string name="emergency_desc_1">Uma pessoa pode obter o COVID-19 ao entrar em contato com alguém que está infectado com o vírus. A doença pode se espalhar de pessoa para pessoa através de gotículas do nariz ou da boca que são jogadas fora quando uma pessoa infectada tosse ou espirra. Essas gotículas caem sobre objetos e superfícies ao redor da pessoa, fazendo assim que outras pessoas possam pegar o COVID-19 ao tocarem nesses objetos ou superfícies e, em seguida, tocarem nos olhos, nariz ou boca. Eles também podem ser espalhados pela inalação de gotículas que uma pessoa com COVID-19 espalhou através da tosse ou do espirro. Por isso é importante manter-se a mais de um metro de distância de uma pessoa doente. A OMS está estudando pesquisas em andamento sobre formas de disseminar o COVID-19 e continuará relatando resultados atualizados.</string>
+    <string name="emergency_title_2">O vírus que causa o COVID-19 pode ser transmitido pelo ar?</string>
+    <string name="emergency_desc_2">Estudos até o momento sugerem que o vírus que causa o COVID-19 é transmitido principalmente pelo contato com gotículas respiratórias, e não pelo ar.</string>
+    <string name="emergency_title_3">É possível contrair o COVID-19 ao entrar em contato com uma pessoa que não apresenta nenhum sintoma?</string>
+    <string name="emergency_desc_3">A principal maneira de espalhar a doença é através das gotículas respiratórias expelidas por alguém ao tossir. O risco de contrair COVID-19 de alguém sem sintomas é muito baixo. No entanto, muitas pessoas que contrairam COVID-19 apresentam apenas sintomas leves. Isto é particularmente verdadeiro nos estágios iniciais da doença.</string>
+    <string name="emergency_title_4">O que posso fazer para me proteger e impedir a propagação da doença?</string>
+    <string name="emergency_desc_4">Mantenha-se atualizado com as informações mais recentes sobre o surto de COVID-19, que podem ser acessadas no site da OMS e por meio de autoridades de saúde pública relevantes nos níveis nacional e local. Casos foram relatados em muitos países do mundo e ocorreram surtos em vários deles. As autoridades chinesas e outras conseguiram retardar ou interromper o progresso do surto, mas a situação é imprevisível e as últimas notícias precisam ser verificadas regularmente.</string>
+    <string name="emergency_prevent_1">Lave bem as mãos, de preferência com frequência e utilizando álcool gel 70% ou água e sabão.</string>
+    <string name="emergency_prevent_2">Mantenha uma distância mínima de 1 metro entre você e qualquer pessoa que tosse ou espirra.</string>
+    <string name="emergency_prevent_3">Evite tocar seus olhos, nariz e boca.</string>
+    <string name="emergency_prevent_4">Você e as pessoas ao seu redor devem garantir uma boa higiene das vias aéreas. Isso significa cobrir a boca e o nariz com o cotovelo dobrado ou com um lenço de papel quando tossir ou espirrar. O lenço usado deve ser descartado imediatamente.</string>
+    <string name="emergency_prevent_5">Fique em casa se não estiver se sentindo bem. Se você tiver febre, tosse e falta de ar, procure atendimento médico e ligue com antecedência. Siga as instruções das autoridades de saúde.</string>
+
+    <!-- Thanks -->
+    <string name="thanks_title">Um obrigado e seus respectivos créditos a todos que tornaram esta aplicação possível!</string>
+    <string name="thanks_data">Obrigado pelos dados para:</string>
+    <string name="thanks_data_author"><u>CSSE</u></string>
+    <string name="thanks_info">Obrigado pela informação para:</string>
+    <string name="thanks_info_author"><u>OMS</u></string>
+    <string name="thanks_api">Obrigado pela API para:</string>
+    <string name="thanks_api_author"><u>Novel COVID API</u></string>
+    <string name="thanks_icons">Obrigado pelos ícones para:</string>
+    <string name="thanks_icons_author_1"><u>Flaticon</u></string>
+    <string name="thank_and">e</string>
+    <string name="thanks_icons_author_2"><u>Freepik</u></string>
+    <string name="thanks_teacher">Obrigado pela isnpiração:</string>
+    <string name="thanks_teacher_author"><u>Prof. Ramon Lummertz</u></string>
+</resources>
